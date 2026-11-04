@@ -1,9 +1,17 @@
-Paciente: Bilbo Bols¢n 
-Fecha de nacimiento: 2890-09-22 
-N.§ de historia cl¡nica: 123456 
-Alergias: Ninguna 
-Medicamentos: T‚ de hierbas seg£n sea necesario para relajarse 
-Motivo de la visita: Chequeo de rutina antes de la pr¢xima aventura 
-Signos vitales: PA 118/76, FC 68 lpm, Temp 98.4 øF 
-Evaluaci¢n: Excelente salud para un hobbit de su edad. 
-Plan: Mantener una dieta equilibrada, paseos regulares y m¡nima exposici¢n a dragones
+{
+  "patient": {
+    "name": "Bilbo Baggins",
+    "dob": "2890-09-22",
+    "mrn": "123456"
+  },
+  "allergies": "None",
+  "medications": "Herbal tea as needed for relaxation",
+  "reason_for_visit": "Routine check-up before next adventure",
+  "vitals": {
+    "blood_pressure": "118/76",
+    "heart_rate": "68 bpm",
+    "temperature": "98.4 F"
+  },
+  "assessment": "Excellent health for a hobbit of his age.",
+  "plan": "Maintain balanced diet, regular walks, and minimal dragon exposure."
+}

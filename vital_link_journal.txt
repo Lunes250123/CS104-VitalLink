@@ -1,0 +1,9 @@
+Paciente: Bilbo Bols¢n 
+Fecha de nacimiento: 2890-09-22 
+N.§ de historia cl¡nica: 123456 
+Alergias: Ninguna 
+Medicamentos: T‚ de hierbas seg£n sea necesario para relajarse 
+Motivo de la visita: Chequeo de rutina antes de la pr¢xima aventura 
+Signos vitales: PA 118/76, FC 68 lpm, Temp 98.4 øF 
+Evaluaci¢n: Excelente salud para un hobbit de su edad. 
+Plan: Mantener una dieta equilibrada, paseos regulares y m¡nima exposici¢n a dragones
